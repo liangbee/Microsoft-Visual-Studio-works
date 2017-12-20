@@ -1,0 +1,18 @@
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\hippurus\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\hippurus\Desktop\447 labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb

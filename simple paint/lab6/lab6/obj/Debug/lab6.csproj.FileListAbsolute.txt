@@ -1,0 +1,10 @@
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\hippurus\Desktop\447 labs\lab 6\lab6\lab6\obj\Debug\lab6.Settings.resources
